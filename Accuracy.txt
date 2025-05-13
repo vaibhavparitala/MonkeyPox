@@ -1,0 +1,12 @@
+Monkeypox Diagnosis with Interpretable Deep Learning.
+
+Algorithm / Model Used: ResNet50V2 Architecture.
+
+Training Accuracy: 93.00%.
+Validation Accuracy: 92.00%.
+
+
+
+
+
+
